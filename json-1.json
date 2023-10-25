@@ -1,0 +1,22 @@
+[
+  {
+    "title": "title_1",
+    "subtitle": "subtitle_1",
+    "pic": "img/1-img.jpg"
+  },
+  {
+    "title": "title_2",
+    "subtitle": "subtitle_2",
+    "pic": "img/1-img.jpg"
+  },
+  {
+    "title": "title_3",
+    "subtitle": "subtitle_3",
+    "pic": "img/1-img.jpg"
+  },
+  {
+    "title": "title_4",
+    "subtitle": "subtitle_4",
+    "pic": "img/1-img.jpg"
+  }
+]
